@@ -37,6 +37,13 @@ This is a fully custom MIDI controller PCB featuring a mechanical switch matrix,
  
 ---
 
+##Case
+
+ I decided to go with an open design because I really like the look of the PCB. Thanks to [Miraculix50](https://github.com/Miraculix50) for the help.
+ <img width="996" height="529" alt="Screenshot 2026-03-28 200228" src="https://github.com/user-attachments/assets/a702109a-7c59-4dc3-9a00-079f8e2da615" />
+<img width="1184" height="420" alt="Screenshot 2026-03-28 200300" src="https://github.com/user-attachments/assets/c7ccae2e-032e-4010-a551-c403f4a26a0e" />
+
+
 # BOM
 Bill of Materials:
 
