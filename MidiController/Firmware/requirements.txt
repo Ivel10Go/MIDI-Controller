@@ -1,0 +1,7 @@
+# CircuitPython MIDI Controller Keyboard - Dependencies
+# Install via: circup install adafruit_midi adafruit_mcp230xx adafruit_st7735r adafruit_display_text
+
+adafruit_midi
+adafruit_mcp230xx
+adafruit_st7735r
+adafruit_display_text
