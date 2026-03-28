@@ -55,7 +55,6 @@ Qty. | Item
 1 | ST7735R LCD
 38 | 1N4148
 37 | SK6812 MINI LEDs
-1 | XIAO RP2040
 2 | EC11 rotary encoders
 1 | PCM5100 IIS DAC
 1 | MCP23017 I/O Expander
