@@ -51,6 +51,7 @@ Qty. | Item
 :-:|:-:
 1 | Orpheus Pico
 38 | Cherry MX Switch
+38 | Keycaps
 1 | ST7735R LCD
 38 | 1N4148
 37 | SK6812 MINI LEDs
