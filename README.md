@@ -54,4 +54,4 @@ Qty. | Item
 1 | PJ-320A 3.5mm TRRS Audio Jack
 2 | 4,7 kΩ
 2 | 10 kΩ
-4 | 1 µF
+
