@@ -14,6 +14,12 @@ This is a fully custom MIDI controller PCB featuring a mechanical switch matrix,
 <!-- Add more photos here — front/back of PCB, schematic screenshot, 3D render, etc. -->
 <!-- ![Schematic](./images/schematic.png) -->
 <!-- ![PCB Layout](./images/pcb_layout.png) -->
+<img width="1145" height="786" alt="image" src="https://github.com/user-attachments/assets/d3a558a8-a6ca-4bfc-ba94-a8ed5d211313" />
+<img width="991" height="683" alt="image" src="https://github.com/user-attachments/assets/eb617484-4a53-4c09-b590-e45821035226" />
+<img width="992" height="683" alt="image" src="https://github.com/user-attachments/assets/e4eb08f7-e52e-4a59-8b82-2b3c279fd63e" />
+
+
+
  
 ---
  
